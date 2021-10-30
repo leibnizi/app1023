@@ -1,0 +1,13 @@
+@font-face {
+  font-family: myFont;
+  src: url("../../assets/aa.ttf");
+}
+
+.top {
+  font-size: 20px;
+  font-family: myFont;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0;
+}
