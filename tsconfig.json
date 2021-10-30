@@ -21,6 +21,7 @@
     "jsx": "react-jsx"
   },
   "include": [
-    "src"
-  ]
+    "src",
+    "./path/to/the/new/file/externals.d.ts"
+   ]
 }
